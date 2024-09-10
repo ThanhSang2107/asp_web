@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD841BF0-72CC-4FEC-A0DB-206E24A4DA5D}|BT\\BT.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt\\bt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD841BF0-72CC-4FEC-A0DB-206E24A4DA5D}|BT\\BT.csproj|solutionrelative:bt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD841BF0-72CC-4FEC-A0DB-206E24A4DA5D}|BT\\BT.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt\\bt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD841BF0-72CC-4FEC-A0DB-206E24A4DA5D}|BT\\BT.csproj|solutionrelative:bt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT\\BT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT\\BT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:56:46.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT\\BT\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BT\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT\\BT\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BT\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:53:31.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
