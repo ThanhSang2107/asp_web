@@ -1,0 +1,9 @@
+C:\Lập Trình Web\github\asp_web\BT03\BT03\obj\Debug\net8.0\BT03.csproj.AssemblyReference.cache
+C:\Lập Trình Web\github\asp_web\BT03\BT03\obj\Debug\net8.0\BT03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lập Trình Web\github\asp_web\BT03\BT03\obj\Debug\net8.0\BT03.AssemblyInfoInputs.cache
+C:\Lập Trình Web\github\asp_web\BT03\BT03\obj\Debug\net8.0\BT03.AssemblyInfo.cs
+C:\Lập Trình Web\github\asp_web\BT03\BT03\obj\Debug\net8.0\BT03.csproj.CoreCompileInputs.cache
+C:\Lập Trình Web\github\asp_web\BT03\BT03\obj\Debug\net8.0\BT03.MvcApplicationPartsAssemblyInfo.cache
+C:\Lập Trình Web\github\asp_web\BT03\BT03\obj\Debug\net8.0\BT03.RazorAssemblyInfo.cache
+C:\Lập Trình Web\github\asp_web\BT03\BT03\obj\Debug\net8.0\BT03.RazorAssemblyInfo.cs
+C:\Lập Trình Web\github\asp_web\BT03\BT03\obj\Debug\net8.0\BT03.sourcelink.json
