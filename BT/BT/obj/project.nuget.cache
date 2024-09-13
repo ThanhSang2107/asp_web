@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQNfa/aZr4c=",
+  "dgSpecHash": "14jsejcXmVQ=",
   "success": true,
-  "projectFilePath": "C:\\Lập Trình Web\\github\\asp_web\\BT\\BT\\BT.csproj",
+  "projectFilePath": "C:\\Users\\MTBH\\OneDrive\\Tài liệu\\GitHub\\asp_web\\BT\\BT\\BT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MTBH\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\MTBH\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.8\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.8.nupkg.sha512",

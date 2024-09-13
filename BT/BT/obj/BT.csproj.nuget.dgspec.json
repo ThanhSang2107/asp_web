@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lập Trình Web\\github\\asp_web\\BT\\BT\\BT.csproj": {}
+    "C:\\Users\\MTBH\\OneDrive\\Tài liệu\\GitHub\\asp_web\\BT\\BT\\BT.csproj": {}
   },
   "projects": {
-    "C:\\Lập Trình Web\\github\\asp_web\\BT\\BT\\BT.csproj": {
+    "C:\\Users\\MTBH\\OneDrive\\Tài liệu\\GitHub\\asp_web\\BT\\BT\\BT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lập Trình Web\\github\\asp_web\\BT\\BT\\BT.csproj",
+        "projectUniqueName": "C:\\Users\\MTBH\\OneDrive\\Tài liệu\\GitHub\\asp_web\\BT\\BT\\BT.csproj",
         "projectName": "BT",
-        "projectPath": "C:\\Lập Trình Web\\github\\asp_web\\BT\\BT\\BT.csproj",
+        "projectPath": "C:\\Users\\MTBH\\OneDrive\\Tài liệu\\GitHub\\asp_web\\BT\\BT\\BT.csproj",
         "packagesPath": "C:\\Users\\MTBH\\.nuget\\packages\\",
-        "outputPath": "C:\\Lập Trình Web\\github\\asp_web\\BT\\BT\\obj\\",
+        "outputPath": "C:\\Users\\MTBH\\OneDrive\\Tài liệu\\GitHub\\asp_web\\BT\\BT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MTBH\\AppData\\Roaming\\NuGet\\NuGet.Config",
