@@ -1,4 +1,4 @@
-namespace BT02.Models
+namespace bt02.Models
 {
     public class ErrorViewModel
     {

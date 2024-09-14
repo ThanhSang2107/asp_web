@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lập Trình Web\\github\\asp_web\\BT02\\BT02\\BT02.csproj": {}
+    "C:\\Lập Trình Web\\github\\asp_web\\bt02\\bt02\\bt02.csproj": {}
   },
   "projects": {
-    "C:\\Lập Trình Web\\github\\asp_web\\BT02\\BT02\\BT02.csproj": {
+    "C:\\Lập Trình Web\\github\\asp_web\\bt02\\bt02\\bt02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lập Trình Web\\github\\asp_web\\BT02\\BT02\\BT02.csproj",
-        "projectName": "BT02",
-        "projectPath": "C:\\Lập Trình Web\\github\\asp_web\\BT02\\BT02\\BT02.csproj",
+        "projectUniqueName": "C:\\Lập Trình Web\\github\\asp_web\\bt02\\bt02\\bt02.csproj",
+        "projectName": "bt02",
+        "projectPath": "C:\\Lập Trình Web\\github\\asp_web\\bt02\\bt02\\bt02.csproj",
         "packagesPath": "C:\\Users\\MTBH\\.nuget\\packages\\",
-        "outputPath": "C:\\Lập Trình Web\\github\\asp_web\\BT02\\BT02\\obj\\",
+        "outputPath": "C:\\Lập Trình Web\\github\\asp_web\\bt02\\bt02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MTBH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,10 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.5, )"
             }
           },
           "imports": [

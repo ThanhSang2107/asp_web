@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT02\\",
+  "WorkspaceRootPath": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EB95485-7C3A-4A82-BD9F-0DEF2483D962}|BT02\\BT02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt02\\bt02\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB95485-7C3A-4A82-BD9F-0DEF2483D962}|BT02\\BT02.csproj|solutionrelative:bt02\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B5DEE33-0AE8-4420-A952-3329DA80BB73}|bt02\\bt02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt02\\bt02\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5DEE33-0AE8-4420-A952-3329DA80BB73}|bt02\\bt02.csproj|solutionrelative:bt02\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB95485-7C3A-4A82-BD9F-0DEF2483D962}|BT02\\BT02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt02\\bt02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB95485-7C3A-4A82-BD9F-0DEF2483D962}|BT02\\BT02.csproj|solutionrelative:bt02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B5DEE33-0AE8-4420-A952-3329DA80BB73}|bt02\\bt02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt02\\bt02\\bt02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B5DEE33-0AE8-4420-A952-3329DA80BB73}|bt02\\bt02.csproj|solutionrelative:bt02\\bt02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5DEE33-0AE8-4420-A952-3329DA80BB73}|bt02\\bt02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt02\\bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5DEE33-0AE8-4420-A952-3329DA80BB73}|bt02\\bt02.csproj|solutionrelative:bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5DEE33-0AE8-4420-A952-3329DA80BB73}|bt02\\bt02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt02\\bt02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5DEE33-0AE8-4420-A952-3329DA80BB73}|bt02\\bt02.csproj|solutionrelative:bt02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5DEE33-0AE8-4420-A952-3329DA80BB73}|bt02\\bt02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt02\\bt02\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5DEE33-0AE8-4420-A952-3329DA80BB73}|bt02\\bt02.csproj|solutionrelative:bt02\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bt02.csproj",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\bt02\\bt02.csproj",
+              "RelativeDocumentMoniker": "bt02\\bt02.csproj",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\bt02\\bt02.csproj",
+              "RelativeToolTip": "bt02\\bt02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T08:21:20.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\bt02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "bt02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\bt02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "bt02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T08:18:58.304Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Theloaicontroller.cs",
-              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT02\\BT02\\Controllers\\Theloaicontroller.cs",
-              "RelativeDocumentMoniker": "BT02\\Controllers\\Theloaicontroller.cs",
-              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT02\\BT02\\Controllers\\Theloaicontroller.cs*",
-              "RelativeToolTip": "BT02\\Controllers\\Theloaicontroller.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T08:34:00.499Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\bt02\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "bt02\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\bt02\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "bt02\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T08:10:55.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT02\\BT02\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BT02\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT02\\BT02\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BT02\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\bt02\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "bt02\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\bt02\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "bt02\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T08:32:08.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T08:07:53.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\bt02\\Program.cs",
+              "RelativeDocumentMoniker": "bt02\\Program.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt02\\bt02\\Program.cs",
+              "RelativeToolTip": "bt02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:05:00.208Z"
             }
           ]
         }

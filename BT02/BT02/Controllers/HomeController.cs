@@ -1,9 +1,8 @@
-using BT02.Models;
-using BT02.Models;
+using bt02.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace BT02.Controllers
+namespace bt02.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace BT02.Controllers
+namespace bt02.Controllers
 {
     public class TheLoaiController : Controller
     {
