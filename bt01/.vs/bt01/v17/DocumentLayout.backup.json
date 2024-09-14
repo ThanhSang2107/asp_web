@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7B499-B864-43A2-A7AB-C031AE8A617B}|bt01\\bt01.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt01\\bt01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E7B499-B864-43A2-A7AB-C031AE8A617B}|bt01\\bt01.csproj|solutionrelative:bt01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7B499-B864-43A2-A7AB-C031AE8A617B}|bt01\\bt01.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt01\\bt01\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F9E7B499-B864-43A2-A7AB-C031AE8A617B}|bt01\\bt01.csproj|solutionrelative:bt01\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7B499-B864-43A2-A7AB-C031AE8A617B}|bt01\\bt01.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt01\\bt01\\wwwroot\\css\\temp.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7B499-B864-43A2-A7AB-C031AE8A617B}|bt01\\bt01.csproj|solutionrelative:bt01\\wwwroot\\css\\temp.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "temp.css",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt01\\bt01\\wwwroot\\css\\temp.css",
+              "RelativeDocumentMoniker": "bt01\\wwwroot\\css\\temp.css",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt01\\bt01\\wwwroot\\css\\temp.css",
+              "RelativeToolTip": "bt01\\wwwroot\\css\\temp.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T07:27:58.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt01\\bt01\\.gitignore",
+              "RelativeDocumentMoniker": "bt01\\.gitignore",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt01\\bt01\\.gitignore",
+              "RelativeToolTip": "bt01\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-14T07:26:36.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt01\\bt01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "bt01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\bt01\\bt01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "bt01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:24:01.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
