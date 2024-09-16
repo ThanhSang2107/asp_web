@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baitapkiemtra\\baitapkiemtra\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|solutionrelative:baitapkiemtra\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baitapkiemtra\\baitapkiemtra\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|solutionrelative:baitapkiemtra\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baitapkiemtra\\baitapkiemtra\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|solutionrelative:baitapkiemtra\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baitapkiemtra\\baitapkiemtra\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|solutionrelative:baitapkiemtra\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baitapkiemtra\\baitapkiemtra\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|solutionrelative:baitapkiemtra\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baitapkiemtra\\baitapkiemtra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|solutionrelative:baitapkiemtra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baitapkiemtra\\baitapkiemtra\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|solutionrelative:baitapkiemtra\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baitapkiemtra\\baitapkiemtra\\baitapkiemtra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9963DDBF-DDB0-4812-890E-D24FE9AC01E6}|Baitapkiemtra\\Baitapkiemtra.csproj|solutionrelative:baitapkiemtra\\baitapkiemtra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Baitapkiemtra\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "Baitapkiemtra\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:53:28.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "Baitapkiemtra\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "Baitapkiemtra\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:45:07.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Baitapkiemtra\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Baitapkiemtra\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:30:25.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\.gitignore",
+              "RelativeDocumentMoniker": "Baitapkiemtra\\.gitignore",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\.gitignore",
+              "RelativeToolTip": "Baitapkiemtra\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T16:17:09.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitapkiemtra\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Baitapkiemtra\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:17:00.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaiKhoanViewModel.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Models\\TaiKhoanViewModel.cs",
+              "RelativeDocumentMoniker": "Baitapkiemtra\\Models\\TaiKhoanViewModel.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Models\\TaiKhoanViewModel.cs",
+              "RelativeToolTip": "Baitapkiemtra\\Models\\TaiKhoanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:46:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Program.cs",
+              "RelativeDocumentMoniker": "Baitapkiemtra\\Program.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Program.cs",
+              "RelativeToolTip": "Baitapkiemtra\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:43:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Baitapkiemtra",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Baitapkiemtra.csproj",
+              "RelativeDocumentMoniker": "Baitapkiemtra\\Baitapkiemtra.csproj",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\Baitapkiemtra\\Baitapkiemtra\\Baitapkiemtra.csproj",
+              "RelativeToolTip": "Baitapkiemtra\\Baitapkiemtra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T16:14:17.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
