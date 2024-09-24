@@ -1,0 +1,28 @@
+﻿@model BaiKiemTra02.Models.LopHoc
+
+<h2>Thêm lớp học mới</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label for="TenLopHoc">Tên Lớp</label>
+        <input type="text" class="form-control" asp-for="TenLopHoc" />
+        <span asp-validation-for="TenLopHoc" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="NamNhapHoc">Năm Nhập Học</label>
+        <input type="number" class="form-control" asp-for="NamNhapHoc" />
+        <span asp-validation-for="NamNhapHoc" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="NamRaTruong">Năm Ra Trường</label>
+        <input type="number" class="form-control" asp-for="NamRaTruong" />
+        <span asp-validation-for="NamRaTruong" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="SoLuongSinhVien">Số Lượng Sinh Viên</label>
+        <input type="number" class="form-control" asp-for="SoLuongSinhVien" />
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>
+
+<a asp-action="Index">Quay lại danh sách</a>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BaiKiemTra02/1.0.0": {
+        "runtime": {
+          "BaiKiemTra02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiKiemTra02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
