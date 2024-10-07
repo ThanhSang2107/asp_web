@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEB6291-B19C-46C5-9D92-3A727C521740}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEB6291-B19C-46C5-9D92-3A727C521740}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEB6291-B19C-46C5-9D92-3A727C521740}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEB6291-B19C-46C5-9D92-3A727C521740}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEB6291-B19C-46C5-9D92-3A727C521740}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CEB6291-B19C-46C5-9D92-3A727C521740}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEB6291-B19C-46C5-9D92-3A727C521740}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEB6291-B19C-46C5-9D92-3A727C521740}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEB6291-B19C-46C5-9D92-3A727C521740}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEB6291-B19C-46C5-9D92-3A727C521740}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Program.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Program.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Program.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:35:11.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\appsettings.json",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\appsettings.json",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\appsettings.json",
+              "RelativeToolTip": "BaiKiemTra03_02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T07:31:46.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:31:23.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Models\\Author.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Author.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:29:00.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Models\\Book.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Book.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:28:15.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
