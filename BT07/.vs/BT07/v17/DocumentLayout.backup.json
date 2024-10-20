@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\views\\theloai\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\views\\theloai\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Data\\Migrations\\20241020152139_addtheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BT07\\Data\\Migrations\\20241020152139_addtheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|c:\\l\u1EADp tr\u00ECnh web\\github\\asp_web\\bt07\\bt07\\data\\migrations\\20241020145414_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB6165-49F3-4145-A604-EA467B59681A}|BT07\\BT07.csproj|solutionrelative:bt07\\data\\migrations\\20241020145414_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 341,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Views\\TheLoai\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BT07\\Views\\TheLoai\\Detail.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Views\\TheLoai\\Detail.cshtml*",
+              "RelativeToolTip": "BT07\\Views\\TheLoai\\Detail.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T16:39:52.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BT07\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BT07\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:15:35.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Views\\TheLoai\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BT07\\Views\\TheLoai\\Delete.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Views\\TheLoai\\Delete.cshtml",
+              "RelativeToolTip": "BT07\\Views\\TheLoai\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T16:11:14.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Views\\TheLoai\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BT07\\Views\\TheLoai\\Edit.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Views\\TheLoai\\Edit.cshtml",
+              "RelativeToolTip": "BT07\\Views\\TheLoai\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T16:07:30.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Views\\TheLoai\\Create.cshtml",
+              "RelativeDocumentMoniker": "BT07\\Views\\TheLoai\\Create.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Views\\TheLoai\\Create.cshtml",
+              "RelativeToolTip": "BT07\\Views\\TheLoai\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T15:46:10.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "BT07\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "BT07\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T15:37:15.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "BT07\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "BT07\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:34:33.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241020145414_init.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Data\\Migrations\\20241020145414_init.cs",
+              "RelativeDocumentMoniker": "BT07\\Data\\Migrations\\20241020145414_init.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Data\\Migrations\\20241020145414_init.cs",
+              "RelativeToolTip": "BT07\\Data\\Migrations\\20241020145414_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:54:15.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BT07\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BT07\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:27:05.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\appsettings.json",
+              "RelativeDocumentMoniker": "BT07\\appsettings.json",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\appsettings.json",
+              "RelativeToolTip": "BT07\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T14:17:19.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Theloai.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Models\\Theloai.cs",
+              "RelativeDocumentMoniker": "BT07\\Models\\Theloai.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Models\\Theloai.cs",
+              "RelativeToolTip": "BT07\\Models\\Theloai.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:16:13.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Program.cs",
+              "RelativeDocumentMoniker": "BT07\\Program.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Program.cs",
+              "RelativeToolTip": "BT07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:15:41.138Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 59,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241020152139_addtheloai.cs",
+              "DocumentMoniker": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Data\\Migrations\\20241020152139_addtheloai.cs",
+              "RelativeDocumentMoniker": "BT07\\Data\\Migrations\\20241020152139_addtheloai.cs",
+              "ToolTip": "C:\\L\u1EADp Tr\u00ECnh Web\\github\\asp_web\\BT07\\BT07\\Data\\Migrations\\20241020152139_addtheloai.cs",
+              "RelativeToolTip": "BT07\\Data\\Migrations\\20241020152139_addtheloai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:21:39.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
